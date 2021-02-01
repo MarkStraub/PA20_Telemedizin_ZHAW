@@ -1,0 +1,6 @@
+--pre falcon
+matlab
+numpy==1.19.3
+uvicorn
+pylab-sdk
+requests

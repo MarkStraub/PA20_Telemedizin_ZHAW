@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8867917630",
+    "firebase_url": "https://hartslag-zhaw.firebaseio.com",
+    "project_id": "hartslag-zhaw",
+    "storage_bucket": "hartslag-zhaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8867917630:android:eac602153b247fe91a466f",
+        "android_client_info": {
+          "package_name": "com.zhaw.hartslag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8867917630-7rbv0l0b1le80tvt6dmu4njbpjsev3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFTNlfOBJgwMiLzjBviaFbFHKYj-fRqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8867917630-7rbv0l0b1le80tvt6dmu4njbpjsev3lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
